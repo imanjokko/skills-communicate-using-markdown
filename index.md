@@ -9,3 +9,8 @@ SELECT *
 FROM Github
 WHERE file_name = 'All_in_Africa'
 ```
+## TASK LIST
+- [x] Create task list
+- [x] Check syntax
+- [x] Preview
+- [ ] Commit change
